@@ -21,12 +21,14 @@ cust_id = Customer ID
 credit_card_number = credit card number.
     
 transaction_type = Assumed 4 different transaction types:
+    
     a = food,
     b = medication,
     c = fuel,
     d = others.
     
 transaction_amount = The total amount spent on transaction types.
+    
     day_type = Assumed 2 day_types:
     w = Transaction occured on WEEKDAYS,
     s = Transaction occured on WEEKEND.
