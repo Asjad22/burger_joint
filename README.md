@@ -14,22 +14,27 @@ The shape of Dataset is (2000, 6), 2000 rows and 6 columns.
 
 The details of columns are as follow:
     
-transaction_date_time = The time of transaction.
+    transaction_date_time = The time of transaction.
     
-cust_id = Customer ID
+    cust_id = Customer ID
     
-credit_card_number = credit card number.
+    credit_card_number = credit card number.
     
-transaction_type = Assumed 4 different transaction types:
+    transaction_type = Assumed 4 different transaction types:
     
     a = food,
+    
     b = medication,
+    
     c = fuel,
+    
     d = others.
     
 transaction_amount = The total amount spent on transaction types.
     
     day_type = Assumed 2 day_types:
+    
     w = Transaction occured on WEEKDAYS,
+    
     s = Transaction occured on WEEKEND.
         
