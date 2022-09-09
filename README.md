@@ -22,13 +22,13 @@ The details of columns are as follow:
     
     transaction_type = Assumed 4 different transaction types:
     
-    a = food,
+        a = food,
     
-    b = medication,
+        b = medication,
     
-    c = fuel,
+        c = fuel,
     
-    d = others.
+        d = others.
     
 transaction_amount = The total amount spent on transaction types.
     
