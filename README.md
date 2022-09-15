@@ -10,7 +10,7 @@ I've implemented RNN to tackle multivariate time series
 ### Dataset Information:
 The Dataset has been generated from faker.
 
-The shape of Dataset is (2000, 6), 2000 rows and 6 columns.
+The shape of Dataset is (2000, 6), 2000 rows and 6 variables.
 
 The details of variables are as follow:
     
