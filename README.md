@@ -10,9 +10,9 @@ I've implemented RNN to tackle multivariate time series
 ### Dataset Information:
 The Dataset has been generated from faker.
 
-The shape of Dataset is (2000, 6), 2000 rows and 6 columns.
+The shape of Dataset is (2000, 6), 2000 rows and 6 variables.
 
-The details of columns are as follow:
+The details of variables are as follow:
     
     transaction_date_time = The time of transaction.
     
@@ -37,4 +37,8 @@ transaction_amount = The total amount spent on transaction types.
     w = Transaction occured on WEEKDAYS,
     
     s = Transaction occured on WEEKEND.
+<<<<<<< HEAD
         # clf-burger
+=======
+        
+>>>>>>> dc41b777b38a023a2417d2e2f5687fc9c79cde16
