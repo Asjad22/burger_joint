@@ -37,4 +37,4 @@ transaction_amount = The total amount spent on transaction types.
     w = Transaction occured on WEEKDAYS,
     
     s = Transaction occured on WEEKEND.
-        
+        # clf-burger
