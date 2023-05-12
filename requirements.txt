@@ -1,0 +1,9 @@
+notebook
+pandas
+numpy
+#psycopg2
+matplotlib
+seaborn
+joblib
+scikit-learn
+pathlib
